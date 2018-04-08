@@ -1,0 +1,1 @@
+This is a basic web scrapping script for comparing the the types of products available from a website. Copy and paste the website address to the top line of the script.
